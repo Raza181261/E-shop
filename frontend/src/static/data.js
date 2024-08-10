@@ -229,7 +229,7 @@ export const navItems = [
       title: "Gifts",
       subTitle: "",
       image_Url:
-        "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+        "https://tse2.mm.bing.net/th?id=OIP.qFNllHw2eXMLX0JjR2KUpwHaD7&pid=Api&P=0&h=220",
     },
     {
       id: 7,
@@ -271,11 +271,11 @@ export const navItems = [
       image_Url: [
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://tse1.mm.bing.net/th?id=OIP.yaxfsfMeCPqMQx-s2FHGRQHaFf&pid=Api&P=0&h=220",
         },
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://tse1.mm.bing.net/th?id=OIP.yaxfsfMeCPqMQx-s2FHGRQHaFf&pid=Api&P=0&h=220",
         },
       ],
       shop: {
@@ -331,11 +331,11 @@ export const navItems = [
       image_Url: [
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://tse1.mm.bing.net/th?id=OIP.yaxfsfMeCPqMQx-s2FHGRQHaFf&pid=Api&P=0&h=220",
         },
         {
           public_id: "test",
-          url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+          url: "https://tse1.mm.bing.net/th?id=OIP.yaxfsfMeCPqMQx-s2FHGRQHaFf&pid=Api&P=0&h=220",
         },
       ],
       shop: {
@@ -393,7 +393,7 @@ export const navItems = [
       image_Url: [
         {
           public_id: "test",
-          url: "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RLV0015/2-800x800.jpg",
+          url: "https://tse2.mm.bing.net/th?id=OIP.xS0v9PbQlYDdclhzE9x30QHaEx&pid=Api&P=0&h=220",
         },
         {
           public_id: "test",
